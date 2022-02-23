@@ -11,11 +11,19 @@ public class C2_Ej_4 {
         try {
             BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
             System.out.println("Ingrese su nombre");
+            nombre = entrada.readLine();
             System.out.println("Ingrese su apellido");
+            apellido = entrada.readLine();
             System.out.println("Ingrese su edad");
+            edad = Integer.valueOf(entrada.readLine());
             System.out.println("Ingrese su altura");
+            altura = Double.valueOf(entrada.readLine());
             System.out.println("Ingrese su ocupación");
+            ocupacion = entrada.readLine();
             System.out.println("Ingrese su dirección");
+            direccion = entrada.readLine();
+            System.out.println("\nNombre: "+nombre+"\nApellido: "+apellido+"\nEdad: "+edad+"\nAltura: "+altura+"\nOcupacion: "+ocupacion+"\nDireccion: "+direccion);
+
             
         } catch (Exception e) {
             System.out.println(e);

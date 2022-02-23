@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch C2_Ej_5",
+            "request": "launch",
+            "mainClass": "C2_Ej_5",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C2_Ej_4",
+            "request": "launch",
+            "mainClass": "C2_Ej_4",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
             "name": "Launch C2_Ej_3",
             "request": "launch",
             "mainClass": "C2_Ej_3",
