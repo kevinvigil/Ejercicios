@@ -29,7 +29,7 @@ public class C4_ej_2_3 {
                 }
             }
         } catch (Exception e) {
-            //TODO: handle exception
+            System.out.println(e);
         }
     }
 }
