@@ -1,3 +1,4 @@
+package Clase4;
 // Escribir un programa que ingrese un número entero por teclado y
 // realice:
 // _ imprima es múltiplo de 6 y de 7 si cumple con esa condición,

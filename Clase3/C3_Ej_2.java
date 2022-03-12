@@ -1,3 +1,4 @@
+package Clase3;
 // Escribir un programa que imprima por pantalla la tabla de valores
 // de verdad para el or y and por separado.
 public class C3_Ej_2 {

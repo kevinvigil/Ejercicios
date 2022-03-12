@@ -1,3 +1,4 @@
+package Clase2;
 // Escribir un programa que para los tipos int, double, char y boolean
 // declare una variable en cada caso, luego asigne un valor a cada
 // una correspondiente al tipo que la variable tiene, e imprima por

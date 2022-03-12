@@ -1,3 +1,4 @@
+package Clase4;
 // Escribir un programa que permita el ingreso de un carácter y realice:
 // _ imprima es carácter dígito si el carácter ingresado es carácter
 // dígito,

@@ -1,3 +1,4 @@
+package Clase2;
 // Escribir un programa que pida que se ingresen datos necesarios para emitir una
 // factura por la compra de dos artículos de librería (tipo factura, número, nombre
 // cliente, producto 1, importe 1, producto 2, importe 2, importe total). Como

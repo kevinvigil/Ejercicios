@@ -1,3 +1,4 @@
+package Clase4;
 // Hacer un programa que solicite la carga desde consola de un
 // numero entero y realice:
 // _si el numero es positivo, imprima “grande” si es mayor a 100 o “chico “ si

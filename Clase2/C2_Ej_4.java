@@ -1,3 +1,4 @@
+package Clase2;
 // Escribir un programa que solicite los siguientes datos de una persona (nombre,
 // apellido, edad, altura, ocupación, dirección) y los imprima por pantalla.
 

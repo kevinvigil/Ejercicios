@@ -1,3 +1,4 @@
+package Clase3;
 // Escribir un programa que ingrese un número entero por teclado e
 // imprima el resultado de determinar:
 // _ es múltiplo de 6 y de 7,

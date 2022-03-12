@@ -1,3 +1,4 @@
+package Clase2;
 // Escribir un programa que declare tres variables de tipo double y
 // una constante de tipo double con valor 1.0 . Luego deberá
 // asignar el valor de la constante a una de la variables declaradas,

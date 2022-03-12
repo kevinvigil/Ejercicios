@@ -1,3 +1,4 @@
+package Clase3;
 // Escribir un programa que permita el ingreso de dos números
 // enteros por teclado e imprima el resultado de comparar:
 // _ el primero mayor al segundo.

@@ -1,3 +1,4 @@
+package Clase4;
 // Hacer un programa que solicite la carga desde consola de
 // un carácter y realice: imprima si es dígito, o letra minúscula, o
 // es cualquier otro carácter. Si es letra minúscula indicar si es

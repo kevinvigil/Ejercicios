@@ -1,3 +1,4 @@
+package Clase4;
 // El astrónomo Metón de Atenas descubrió hacia el siglo V a.C que la luna
 // repite su ciclo cada 19 años (el mismo día del mismo mes tendrá la misma
 // fase lunar). Sus aportes permitieron determinar la fase de la luna para una
@@ -63,7 +64,6 @@ public class C4_Ej_2_4 {
         } catch (Exception e) {
             System.out.println(e);
         }
-        
     }
 
     public static int numero_de_aureo (int anio) { // A

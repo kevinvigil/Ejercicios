@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch C5_Ej_9",
+            "request": "launch",
+            "mainClass": "Clase5.C5_Ej_9",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_8",
+            "request": "launch",
+            "mainClass": "Clase5.C5_Ej_8",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_7",
+            "request": "launch",
+            "mainClass": "Clase5.C5_Ej_7",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_6",
+            "request": "launch",
+            "mainClass": "Clase5.C5_Ej_6",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_5",
+            "request": "launch",
+            "mainClass": "C5_Ej_5",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_4",
+            "request": "launch",
+            "mainClass": "C5_Ej_4",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_3",
+            "request": "launch",
+            "mainClass": "C5_Ej_3",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_2",
+            "request": "launch",
+            "mainClass": "C5_Ej_2",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch C5_Ej_1",
+            "request": "launch",
+            "mainClass": "C5_Ej_1",
+            "projectName": "Java_306b49a9"
+        },
+        {
+            "type": "java",
             "name": "Launch C4_Ej_2_4_A",
             "request": "launch",
             "mainClass": "C4_Ej_2_4_A",

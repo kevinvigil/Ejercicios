@@ -1,3 +1,4 @@
+package Clase4;
 // Escribir un programa que permita el ingreso de dos números enteros
 // por teclado y realice:
 // _ imprima A si el primero mayor al segundo,

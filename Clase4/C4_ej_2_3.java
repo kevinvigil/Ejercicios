@@ -1,3 +1,4 @@
+package Clase4;
 // Construir un programa que solicite desde teclado un número de
 // mes y posteriormente notifique por pantalla la cantidad de días
 // de ese mes. En el caso de que ingrese 2 como número de mes

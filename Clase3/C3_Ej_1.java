@@ -1,3 +1,4 @@
+package Clase3;
 // Escribir un programa que permita el ingreso de un número entero
 // por teclado e imprima el cociente de la división de dicho número
 // con 2, 3, y 4.
